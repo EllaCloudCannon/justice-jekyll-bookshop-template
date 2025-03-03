@@ -20,11 +20,11 @@ collection_groups:
   - heading: Pages
     collections:
       - pages
-  - heading: Blog
+      - staff_members
+  - heading: Articles
     collections:
       - posts
       - drafts
-      - staff_members
   - heading: Settings
     collections:
       - data
