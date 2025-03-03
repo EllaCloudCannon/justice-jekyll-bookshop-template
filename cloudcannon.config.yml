@@ -20,7 +20,7 @@ collection_groups:
   - heading: Pages
     collections:
       - pages
-  - heading: Blog
+  - heading: Content
     collections:
       - posts
       - drafts
